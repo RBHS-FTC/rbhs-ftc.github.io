@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RBHS FTC - Blog</title>
+  </head>
+  <nav>
+    <ul>
+      <li><a href="https://rbhs-ftc.github.io">Home</a></li>
+      <li><a href="blog.md">Blog</a></li>
+      <li><a href="resources.md">Resources</a></li>
+    </ul>
+  </nav>
+  <body>
+    <h1>RBHS FTC Blog</h1>
+    <h3>Welcome to 2018/2019 Season</h3>
+  </body>
+</html> 
